@@ -1,0 +1,1 @@
+SCRIPT: loadstring(game:HttpGet("https://raw.githubusercontent.com/Ultra-Scripts/AdoptmeScript/main/AdoptmeScript/2JA2DW3-adopt-me.lua"))()
